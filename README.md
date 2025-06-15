@@ -6,4 +6,5 @@ Something missing or inaccurate? Feel free to open a [PR](https://github.com/sms
 ## Companies
 | Company | Primary Chat Tool | Secondary Chat Tool (Optional) | Notes (Optional)
 -- | -- | -- | --
+[Arm](https://www.arm.com/) | Slack, Zoom | Teams | All engineers use Slack and Zoom for video calling. Supporting functions e.g. finance and HR prefer Teams.
 [Office for National Statistics](https://www.ons.gov.uk/) | Teams | Slack | Some teams use Slack, but Teams is the most common and official tool used company-wide.
