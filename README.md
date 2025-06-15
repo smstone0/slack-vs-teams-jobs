@@ -8,3 +8,4 @@ Something missing or inaccurate? Feel free to open a [PR](https://github.com/sms
 -- | -- | -- | --
 [Arm](https://www.arm.com/) | Slack, Zoom | Teams | All engineers use Slack, with Zoom for video calling. Supporting functions e.g. finance and HR prefer Teams.
 [Office for National Statistics](https://www.ons.gov.uk/) | Teams | Slack | Some teams use Slack, but Teams is the most common and official tool used company-wide.
+[Raspberry Pi Foundation](https://www.raspberrypi.org/) | Slack
