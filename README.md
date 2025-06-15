@@ -11,3 +11,4 @@ Something missing or inaccurate? Feel free to open a [PR](https://github.com/sms
 [IKEA](https://www.ikea.com/) | Teams
 [Office for National Statistics](https://www.ons.gov.uk/) | Teams | Slack | Some teams use Slack, but Teams is the most common and official tool used company-wide.
 [Raspberry Pi Foundation](https://www.raspberrypi.org/) | Slack
+[Vodafone](https://vodafone.com) | Teams
