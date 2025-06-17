@@ -11,6 +11,7 @@ Something missing or inaccurate? Feel free to open a [PR](https://github.com/sms
 [Greggs](https://www.greggs.com/) | Teams
 [IKEA](https://www.ikea.com/) | Teams
 [Jaguar Land Rover](https://www.jlr.com/) | Teams
+[JPMorganChase](https://www.jpmorganchase.com/) | Teams
 [Klarna](https://www.klarna.com/) | Slack
 [Lockheed Martin](https://www.lockheedmartin.com/) | Teams
 [MBDA](https://www.mbda-systems.com/) | Teams
