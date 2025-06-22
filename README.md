@@ -6,6 +6,8 @@ Something missing or inaccurate? Feel free to open a [PR](https://github.com/sms
 ## Companies
 | Company | Primary Chat Tool | Secondary Chat Tool (Optional) | Notes (Optional)
 -- |-------------| -- | --
+[Amazon](https://www.amazon.com/) | Slack
+[Anthropic](https://www.anthropic.com/) | Slack
 [Arm](https://www.arm.com/) | Slack, Zoom | Teams | All engineers use Slack, with Zoom for video calling. Supporting functions e.g. finance and HR prefer Teams.
 [BAE Systems](https://www.baesystems.com/en) | Teams
 [Google](https://about.google/) | Google Chat
@@ -16,10 +18,12 @@ Something missing or inaccurate? Feel free to open a [PR](https://github.com/sms
 [Klarna](https://www.klarna.com/) | Slack
 [Lockheed Martin](https://www.lockheedmartin.com/) | Teams
 [MBDA](https://www.mbda-systems.com/) | Teams
+[Microsoft](https://www.microsoft.com/) | Teams
 [Monzo](https://monzo.com/) | Slack, Zoom | Google Chat | All engineers use Slack, with Zoom for video calling. In the case that Slack is experiencing an outage, we use Google Chat to communicate when necessary e.g. in the case of an incident.
 [NHS](https://www.nhs.uk/) | Teams
 [NPlan](https://www.nplan.io/) | Slack
 [Office for National Statistics](https://www.ons.gov.uk/) | Teams | Slack | Some teams use Slack, but Teams is the most common and official tool used company-wide.
+[OpenAI](https://openai.com/) | Slack
 [Palantir](https://www.palantir.com/) | Slack
 [Perplexity](https://www.perplexity.ai/) | Slack
 [Raspberry Pi Foundation](https://www.raspberrypi.org/) | Slack
