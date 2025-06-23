@@ -10,6 +10,7 @@ Something missing or inaccurate? Feel free to open a [PR](https://github.com/sms
 [Anthropic](https://www.anthropic.com/) | Slack
 [Arm](https://www.arm.com/) | Slack, Zoom | Teams | All engineers use Slack, with Zoom for video calling. Supporting functions e.g. finance and HR prefer Teams.
 [BAE Systems](https://www.baesystems.com/en) | Teams
+[Barclays](https://www.barclays.co.uk/) | Teams
 [Google](https://about.google/) | Google Chat
 [Greggs](https://www.greggs.com/) | Teams
 [IKEA](https://www.ikea.com/) | Teams
