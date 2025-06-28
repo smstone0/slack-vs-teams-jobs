@@ -6,7 +6,7 @@ Something missing or inaccurate? Feel free to open a [PR](https://github.com/sms
 ## Companies
 | Company | Primary Chat Tool | Secondary Chat Tool (Optional) | Notes (Optional)
 -- |-------------| -- | --
-[Amazon](https://www.amazon.com/) | Slack
+[Amazon](https://www.amazon.com/) | Slack | Teams/Amazon Chime | Recently big push within some orgs to get on Microsoft 365. Currently Amazon Chime used for all internal calling and some messaging.
 [Anthropic](https://www.anthropic.com/) | Slack
 [Arm](https://www.arm.com/) | Slack, Zoom | Teams | All engineers use Slack, with Zoom for video calling. Supporting functions e.g. finance and HR prefer Teams.
 [BAE Systems](https://www.baesystems.com/en) | Teams
